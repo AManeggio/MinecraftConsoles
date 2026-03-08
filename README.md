@@ -27,7 +27,7 @@ Windows users can download our [Nightly Build](https://github.com/smartcmd/Minec
 - LAN Multiplayer & Discovery
 - Added persistent username system via "username.txt"
 
-## Multiplayer
+## Multiplayer 2 electric boogaloo
 
 Basic LAN multiplayer is available on the Windows build
 
